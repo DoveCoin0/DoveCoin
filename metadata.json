@@ -1,0 +1,12 @@
+{
+  "name": "DoveCoin",
+  "symbol": "DVC",
+  "description": "The goal of DoveCoin was not only to become a financial instrument but also to serve as a platform for charitable initiatives, social projects, and support for countries recovering from conflicts.",
+  "image": "https://imgur.com/a/rozplPg",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "500000000"
+    }
+  ]
+}
